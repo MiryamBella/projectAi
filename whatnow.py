@@ -1,3 +1,3 @@
 print ("hello world!")
-print ("open clone")
+print ("open clone:)")
 
